@@ -1,13 +1,13 @@
 <?php
 
 /**
- * Laravel - A PHP Framework For Web Artisans
+ * laravel - A PHP Framework For Web Artisans
  *
- * @package  Laravel
+ * @package  laravel
  * @author   Taylor Otwell <taylor@laravel.com>
  */
 
-define('LARAVEL_START', microtime(true));
+define('laravel_START', microtime(true));
 
 /*
 |--------------------------------------------------------------------------

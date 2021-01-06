@@ -423,7 +423,7 @@
                     "email": "fideloper@gmail.com"
                 }
             ],
-            "description": "Set trusted proxies for Laravel",
+            "description": "Set trusted proxies for laravel",
             "keywords": [
                 "load balancing",
                 "proxy",
@@ -907,7 +907,7 @@
                     "email": "taylor@laravel.com"
                 }
             ],
-            "description": "The Laravel Framework.",
+            "description": "The laravel Framework.",
             "homepage": "https://laravel.com",
             "keywords": [
                 "framework",
@@ -1064,13 +1064,13 @@
                 },
                 "laravel": {
                     "providers": [
-                        "Laravel\\Tinker\\TinkerServiceProvider"
+                        "laravel\\Tinker\\TinkerServiceProvider"
                     ]
                 }
             },
             "autoload": {
                 "psr-4": {
-                    "Laravel\\Tinker\\": "src/"
+                    "laravel\\Tinker\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -1083,7 +1083,7 @@
                     "email": "taylor@laravel.com"
                 }
             ],
-            "description": "Powerful REPL for the Laravel framework.",
+            "description": "Powerful REPL for the laravel framework.",
             "keywords": [
                 "REPL",
                 "Tinker",
@@ -1421,7 +1421,7 @@
                 "update-helper": "Carbon\\Upgrade",
                 "laravel": {
                     "providers": [
-                        "Carbon\\Laravel\\ServiceProvider"
+                        "Carbon\\laravel\\ServiceProvider"
                     ]
                 }
             },
@@ -4598,7 +4598,7 @@
                     "role": "Developer"
                 }
             ],
-            "description": "Symfony Var-Dump Server for Laravel",
+            "description": "Symfony Var-Dump Server for laravel",
             "homepage": "https://github.com/beyondcode/laravel-dump-server",
             "keywords": [
                 "beyondcode",
@@ -4979,7 +4979,7 @@
             "extra": {
                 "laravel": {
                     "providers": [
-                        "NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider"
+                        "NunoMaduro\\Collision\\Adapters\\laravel\\CollisionServiceProvider"
                     ]
                 }
             },
